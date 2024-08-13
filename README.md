@@ -22,4 +22,4 @@
 
 ---
 
-### This dashboard is an invaluable resource for the HR department, enabling them to monitor workforce engagement, identify attendance patterns, and make informed decisions to optimize resource planning and employee management.
+### - This dashboard is an invaluable resource for the HR department, enabling them to monitor workforce engagement, identify attendance patterns, and make informed decisions to optimize resource planning and employee management.
