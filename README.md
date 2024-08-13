@@ -3,15 +3,20 @@
 ## **Atliq Technologies - HR Presence Insights Dashboard**
 
  - The Atliq Presence Insights Dashboard is a comprehensive tool designed to monitor and display real-time attendance data for employees at Atliq Technologies. This dashboard provides a detailed overview of employee attendance patterns, including sick leaves, half days, and work-from-home instances.
- - 
+
 ---
 
 - **Key Features:**
 . **Overall Attendance Summary:** Displays key metrics such as overall attendance percentage, presence days off, and work-from-home rates.
+  
 . **Employee Attendance Details:** Lists individual attendance percentages for each employee, identified by unique codes.
+
 . **Attendance Trends:** A line graph showing the percentage of attendance over time, highlighting fluctuations and trends.
+
 . **Presence Days Off:** A bar graph indicating the number of days off taken by employees over a specified period.
+
 . **Work From Home Statistics:** A bar graph detailing the instances of employees working from home.
+
 . **Daily Attendance Breakdown:** Provides daily attendance percentages for each day of the week, along with total counts for presence days off and work-from-home instances.
 
 ---
