@@ -23,3 +23,9 @@
 ---
 
 ### - This dashboard is an invaluable resource for the HR department, enabling them to monitor workforce engagement, identify attendance patterns, and make informed decisions to optimize resource planning and employee management.
+
+---
+
+![HR Presence Insights](https://github.com/user-attachments/assets/d382d072-bb01-4860-aeec-568baf137e59)
+
+---
